@@ -14,16 +14,21 @@ body {
              float: left;
              margin-top: 20px;
              background-color: #0069BA;
+             padding: 40px;
+             padding-bottom: 20px;
+             color: white;
 
          }
              .page-title {
-
+                display: inline-block;
+                width: 100%;
             }
             .bottom-links {
-
+                display: inline-block;
+                width: 100%;
             }
                 .bottom-links > .link {
-
+                    color: white;
                 }
                 .bottom-links > .text {
 
@@ -39,23 +44,6 @@ body {
 
             }
             .form {
-
+                display: inline-block;
+                width: 100%;
             }
-                .form-row {
-
-                }
-                    .label {
-
-                    }
-                    .input {
-
-                    }
-                    .btn {
-
-                    }
-                    .form-row > .text {
-
-                    }
-                    .form-row > .link {
-
-                    }
