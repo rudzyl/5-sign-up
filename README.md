@@ -12,7 +12,7 @@
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!	This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://front-end-by-rimantas.github.io/5-sign-up/	Site published at https://front-end-by-rimantas.github.io/5-sign-up/
+Site published at https://rudzyl.github.io/5-sign-up/	Site published at https://rudzyl.github.io/5-sign-up/
 
 Design: [Mitech portfolio template](https://demo.hasthemes.com/mitech-preview/index-infotechno.html)
 
