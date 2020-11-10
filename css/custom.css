@@ -12,6 +12,7 @@ body {
              display: inline-block;
              width: 40%;
              background-color: #0069BA;
+             background-image: url(../img/kalnas.jpg);
              padding: 40px;
              padding-bottom: 20px;
              color: white;
