@@ -10,16 +10,16 @@ body {
              .page-title {
 
             }
-         .bottom-links {
-
-        }
-            .bottom-links > .link {
+            .bottom-links {
 
             }
-            .bottom-links > .text {
+                .bottom-links > .link {
 
-          }
-    .right-column {
+                }
+                .bottom-links > .text {
+
+                }
+        .right-column {
 
         }
             .close {
@@ -40,9 +40,9 @@ body {
                     .btn {
 
                     }
-                    .text {
+                    .form-row > .text {
 
                     }
-                    .link {
+                    .form-row > .link {
 
                     }
