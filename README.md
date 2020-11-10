@@ -8,11 +8,12 @@
 	![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 # Sign up
-### 19 group project	### 19 group personal website project
+### 19 group project	
+### 19 group personal website project
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!	This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://front-end-by-rimantas.github.io/5-sign up/	Site published at https://front-end-by-rimantas.github.io/5-sign up/
+Site published at https://front-end-by-rimantas.github.io/5-sign-up/	Site published at https://front-end-by-rimantas.github.io/5-sign-up/
 
 Design: [Mitech portfolio template](https://demo.hasthemes.com/mitech-preview/index-infotechno.html)
 
